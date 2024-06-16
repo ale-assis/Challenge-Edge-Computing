@@ -33,4 +33,4 @@ Para a disciplina de EDGE COMPUTING & COMPUTER SYSTEMS nosso grupo desenvolveu u
 - 3x Resitores (150 ohms)
 
 ## Conclusão
-Nossa ideia com este projeto foi transmitir a importância da tecnologia elétrica sobre o funcionamento dos motores da Formula E, pensando em 
+Nossa ideia com este projeto foi transmitir a importância da tecnologia elétrica sobre o funcionamento dos motores dos carros da Formula E. Através da prática com arduíno, nosso grupo teve a oportunidade de aplicar os conhecimentos aprendidos em aula sobre arduíno e C++ para representar uma situação da vida real.
